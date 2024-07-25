@@ -1,4 +1,6 @@
 from customtkinter import *
+from customtkinter import *
+
 from CTkTable import CTkTable
 from PIL import Image
 
